@@ -1,18 +1,5 @@
-.button-custom {
-    height: 50px;
-    border-radius: 8px;
-}
-
-.button-custom:hover{
-    height: 51px;
-    transition: height 0.3s ease-in-out;
-}
-.button-login{
-    background-color: #007bff;
-    color: white;
-}
-
-.button-register{
+#container {
+    height: 300px;
+    width: 100px;
     background-color: red;
-    color: white;
 }
